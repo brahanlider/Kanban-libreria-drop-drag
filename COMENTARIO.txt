@@ -1,0 +1,2 @@
+1create react app
+2 npm install react-beautiful-dnd
